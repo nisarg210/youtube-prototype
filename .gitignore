@@ -1,0 +1,6 @@
+/frontend/node_modules/
+/backend/upload-service/node_modules/
+/backend/transcode-service/node_modules/
+/backend/watch-service/node_modules/
+**/.env
+backend/transcode-service/.env
