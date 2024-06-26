@@ -4,7 +4,10 @@
 
 ## Introduction
 
-Briefly describe your project here.
+-Implemented a distributed microservices architecture for a video streaming platform, leveraging React.js, Express.js, Kafka, AWS S3, and AWS CloudFront. 
+-This architecture allows users to upload videos to S3, which are then transcoded into multiple formats, ranging from 240p to 1080p, for optimal viewing experience.
+
+
 
 ## Prerequisites
 
